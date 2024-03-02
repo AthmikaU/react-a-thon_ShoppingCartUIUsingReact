@@ -26,6 +26,12 @@ quantities
 
 <hr/>
 
+## Team Members 
+- [@athmikau](https://github.com/athmikau) : (4SF22CS038)
+- [@shamitha2004](https://github.com/shamitha2004) : (4SF22CS185)
+  
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
